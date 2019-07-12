@@ -1,0 +1,5 @@
+D:\Bibliotecas\Documentos\Visual Studio 2015\Projects\totenkov\totenkov\bin\Debug\totenkov.exe
+D:\Bibliotecas\Documentos\Visual Studio 2015\Projects\totenkov\totenkov\bin\Debug\totenkov.pdb
+D:\Bibliotecas\Documentos\Visual Studio 2015\Projects\totenkov\totenkov\obj\Debug\totenkov.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Documentos\Visual Studio 2015\Projects\totenkov\totenkov\obj\Debug\totenkov.exe
+D:\Bibliotecas\Documentos\Visual Studio 2015\Projects\totenkov\totenkov\obj\Debug\totenkov.pdb
